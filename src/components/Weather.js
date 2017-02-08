@@ -16,7 +16,7 @@ class  Weather extends Component {
         </div>
 
         <div>
-          <h3>Type Any City</h3><input></input>
+          <h3>Type Any City</h3><input></input><button>Enter</button>
         </div>
 
       </div>
