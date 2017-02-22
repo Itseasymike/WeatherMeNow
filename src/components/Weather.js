@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import '../App.css';
 // add Geolocation?
+//
 class  Weather extends Component {
   render () {
     return(
